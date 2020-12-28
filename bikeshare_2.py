@@ -19,7 +19,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    # define city as a global variable
+    # define city as a global variable to use it in other functions as input
     global city
     
     print('Hello! Let\'s explore some US bikeshare data!')
