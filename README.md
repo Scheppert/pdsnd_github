@@ -10,21 +10,16 @@ The user can select different cities and timeframes, the script will return rele
 Further the script provides raw data to the user if this option is selected. 
 
 ### Files used
-The data used for the project are provided by **Motivate** [Motivateco], a bikeshare system provider for major cities in the United States. 
-https://www.motivateco.com/ - automatic!
-[Motivateco](https://www.motivateco.com/)
+The data used for the project are provided by **[Motivateco](https://www.motivateco.com/)**, a bikeshare system provider for major cities in the United States. 
 
 The script uses data for three cities, **Chicago**, **New York City** and **Washington**. The raw data are from from three different sources:
 
-https://www.divvybikes.com/system-data - automatic!
 [divvybikes](https://www.divvybikes.com/system-data)
 File used for Chicago: 'chicago.csv'
 
-https://www.citibikenyc.com/system-data - automatic!
 [citibikenyc](https://www.citibikenyc.com/system-data)
 File used for New York City: 'new_york_city.csv'
 
-https://www.capitalbikeshare.com/system-data - automatic!
 [capitalbikeshare](https://www.capitalbikeshare.com/system-data)
 File used for Washington: 'washington.csv'
 
