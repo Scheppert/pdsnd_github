@@ -8,6 +8,7 @@ Udacity GitHub project - bikeshare - LE
 The **bikeshare** project is a script that takes raw input from **Motivate** to create an interactive experience in the terminal that answers questions about the dataset. 
 The user can select different cities and timeframes, the script will return relevant data and statistics based on the users selections. 
 Further the script provides raw data to the user if this option is selected. 
+The project is hosted on this [GitHub](https://github.com/Scheppert/pdsnd_github) profile.
 
 ### Files used
 The data used for the project are provided by **[Motivateco](https://www.motivateco.com/)**, a bikeshare system provider for major cities in the United States. 
